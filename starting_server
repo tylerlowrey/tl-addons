@@ -1,0 +1,2 @@
+Command line command for starting test gmod server is (must be in the server directory)
+./srcds_run -game garrysmod +maxplayers 12 +map gm_construct

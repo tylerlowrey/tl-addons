@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"            "TL_Utils"
+	"version"         "0.0.1"
+	"up_date"         "07/25/2018"
+	"author_name"     "Tyler Lowrey"
+	"author_email"    "contact@tylerlowrey.com"
+	"author_url"      "https://tylerlowrey.com"
+}
